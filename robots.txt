@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://drploy-c-berry-immu-kiz.vercel.app/sitemap.xml
